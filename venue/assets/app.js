@@ -228,7 +228,7 @@
         + '<div class="facts"><span>管理人 <b>' + mgr + '</b></span>'
         + (tel ? '<span class="tel"><b>' + tel + '</b></span>' : '') + '</div>'
         + '<div class="strip-wrap">' + stripHead() + '<div class="strip">' + cells + '</div></div>'
-        + (v.win ? '<div class="facts"><span>可用时间：<b>' + v.win + '</b></span></div>' : '')
+        + '<div class="facts avail"><span>可用时间：<b>' + (v.avail || v.win || '无可用时段') + '</b></span></div>'
         + '</article>';
     }).join('');
   }
@@ -301,6 +301,16 @@
      桌面：悬停浮层；所有设备：点按色块在卡片内就地展开，不遮挡页面。 */
   var tip = null;
   var coarse = window.matchMedia('(hover: none)').matches;
+
+  function actMeta(a) {
+    var parts = [];
+    if (a.u) parts.push(a.u);
+    if (a.sp) parts.push(a.sp);
+    if (a.lv) parts.push(a.lv);
+    var meta = parts.join('，');
+    if (a.x) meta = meta ? meta + '　' + a.x : a.x;
+    return meta;
+  }
 
   function slotText(v, s) {
     var di = Math.floor(s / 2), hi = s % 2;
