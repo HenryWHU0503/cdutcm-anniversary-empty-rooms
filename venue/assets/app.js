@@ -308,7 +308,7 @@
     var tel = (v.tel && v.tel !== '待补充') ? v.tel : '';
     return {
       head: DAYS[di] + '日 ' + HALVES[hi] + ' · ' + statusAt(v, di, hi),
-      act: a ? { t: a.t, n: a.n, meta: a.u + (a.sp ? '，' + a.sp : '') + (a.lv ? '　' + a.lv : '') } : null,
+      act: a ? { t: a.t, n: a.n, meta: actMeta(a) } : null,
       mgr: '管理人 ' + (v.mgr === '待补充' ? '待补充' : v.mgr) + (tel ? '　' + tel : '')
     };
   }
@@ -317,7 +317,8 @@
     var d = slotText(v, s);
     return '<div><b>' + v.name + '</b></div>'
       + '<div>' + d.head + '</div>'
-      + (d.act ? '<div style="margin-top:.25rem">' + d.act.t + '　' + d.act.n + '<br>' + d.act.meta + '</div>' : '')
+      + (d.act ? '<div style="margin-top:.25rem">' + d.act.t + '　' + d.act.n
+        + (d.act.meta ? '<br>' + d.act.meta : '') + '</div>' : '')
       + '<div style="margin-top:.25rem;opacity:.75">' + d.mgr + '</div>';
   }
 
@@ -326,7 +327,7 @@
     return '<div class="si-h"><span>' + d.head + '</span>'
       + '<span class="si-x" role="button" aria-label="收起">✕</span></div>'
       + (d.act ? '<div class="si-a">' + d.act.t + '　' + d.act.n + '</div>'
-        + '<div class="si-meta">' + d.act.meta + '</div>' : '')
+        + (d.act.meta ? '<div class="si-meta">' + d.act.meta + '</div>' : '') : '')
       + '<div class="si-meta">' + d.mgr + '</div>';
   }
 
