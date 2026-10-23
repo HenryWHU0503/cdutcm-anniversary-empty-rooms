@@ -1065,7 +1065,7 @@ window.VENUE_DATA = {
       "photo": "暂无",
       "mgr": "王姿雯",
       "tel": "18215528939",
-      "s": "FFFFFFFFXXOOOOFF".replace(/XX/g,"FF"),
+      "s": "FFFFFFFFFFOOOOFF",
       "win": "",
       "acts": {},
       "cap": 30,
