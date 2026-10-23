@@ -3,8 +3,8 @@ window.VENUE_DATA = {
     "title": "成都中医药大学纪念建校70周年活动会场空余情况",
     "range": "10月24日 — 10月31日",
     "generated": "2026-10-23",
-    "totalVenues": 62,
-    "totalCells": 992
+    "totalVenues": 47,
+    "totalCells": 752
   },
   "slots": [
     {
@@ -1118,7 +1118,7 @@ window.VENUE_DATA = {
         "15": {
           "t": "14:00—17:00",
           "n": "医联体联盟年会“新质赋能・中医优势学（专）科建设”分会场",
-          "u": "医院管理处、临床医学院/附属医院",
+          "u": "临床医学院/附属医院",
           "sp": "100人",
           "lv": "校级"
         }
@@ -1329,12 +1329,20 @@ window.VENUE_DATA = {
       "photo": "暂无",
       "mgr": "张倩",
       "tel": "18086802019",
-      "s": "OOFFOOOOOOOOOOOF",
-      "win": "",
-      "acts": {},
+      "s": "OOOOOOOOOOFOFFOO",
+      "win": "10月29—30日全天",
+      "acts": {
+        "11": {
+          "t": "下午",
+          "n": "医学系79级借用",
+          "u": "",
+          "sp": "",
+          "lv": ""
+        }
+      },
       "cap": 60,
-      "actCount": 0,
-      "avail": "25号全天，31号下午"
+      "actCount": 1,
+      "avail": "29号上午，30号全天"
     },
     {
       "id": 36,
@@ -1348,12 +1356,20 @@ window.VENUE_DATA = {
       "photo": "暂无",
       "mgr": "张倩",
       "tel": "18086802019",
-      "s": "OOFOOOOOOOOOOOFF",
-      "win": "",
-      "acts": {},
+      "s": "OOOOOOOOOOFFOFOO",
+      "win": "10月29—30日全天",
+      "acts": {
+        "12": {
+          "t": "上午",
+          "n": "药学院占用",
+          "u": "",
+          "sp": "",
+          "lv": ""
+        }
+      },
       "cap": 120,
-      "actCount": 0,
-      "avail": "25号上午，31号全天"
+      "actCount": 1,
+      "avail": "29号全天，30号下午"
     },
     {
       "id": 37,
@@ -1367,12 +1383,20 @@ window.VENUE_DATA = {
       "photo": "暂无",
       "mgr": "张倩",
       "tel": "18086802019",
-      "s": "OOFOOOOOOOOOOOOF",
-      "win": "",
-      "acts": {},
+      "s": "OOOOOOOOOOFFOFOO",
+      "win": "10月29—30日全天",
+      "acts": {
+        "12": {
+          "t": "上午",
+          "n": "药学院占用",
+          "u": "",
+          "sp": "",
+          "lv": ""
+        }
+      },
       "cap": 120,
-      "actCount": 0,
-      "avail": "25号上午，31号下午"
+      "actCount": 1,
+      "avail": "29号全天，30号下午"
     },
     {
       "id": 38,
@@ -1386,12 +1410,20 @@ window.VENUE_DATA = {
       "photo": "暂无",
       "mgr": "张倩",
       "tel": "18086802019",
-      "s": "OOFOOOOOOOOOOOFF",
-      "win": "",
-      "acts": {},
+      "s": "OOOOOOOOOOFFOFOO",
+      "win": "10月29—30日全天",
+      "acts": {
+        "12": {
+          "t": "上午",
+          "n": "药学院占用",
+          "u": "",
+          "sp": "",
+          "lv": ""
+        }
+      },
       "cap": 110,
-      "actCount": 0,
-      "avail": "25号上午，31号全天"
+      "actCount": 1,
+      "avail": "29号全天，30号下午"
     },
     {
       "id": 39,
@@ -1405,12 +1437,41 @@ window.VENUE_DATA = {
       "photo": "暂无",
       "mgr": "张倩",
       "tel": "18086802019",
-      "s": "OOFFOOOOOOOOOOFF",
-      "win": "",
-      "acts": {},
+      "s": "OOOOOOOOOOOOOOOO",
+      "win": "10月29—30日全天",
+      "acts": {
+        "10": {
+          "t": "全天",
+          "n": "学生处借用",
+          "u": "",
+          "sp": "",
+          "lv": ""
+        },
+        "11": {
+          "t": "全天",
+          "n": "学生处借用",
+          "u": "",
+          "sp": "",
+          "lv": ""
+        },
+        "12": {
+          "t": "全天",
+          "n": "学生处借用",
+          "u": "",
+          "sp": "",
+          "lv": ""
+        },
+        "13": {
+          "t": "全天",
+          "n": "学生处借用",
+          "u": "",
+          "sp": "",
+          "lv": ""
+        }
+      },
       "cap": 120,
-      "actCount": 0,
-      "avail": "25号全天，31号全天"
+      "actCount": 4,
+      "avail": "无可用时段"
     },
     {
       "id": 40,
@@ -1424,12 +1485,12 @@ window.VENUE_DATA = {
       "photo": "暂无",
       "mgr": "张倩",
       "tel": "18086802019",
-      "s": "OOFOOFOOOOOOOOFO",
-      "win": "",
+      "s": "OOOOOOOOOOFFFFOO",
+      "win": "10月29—30日全天",
       "acts": {},
       "cap": 240,
       "actCount": 0,
-      "avail": "25号上午，26号下午，31号上午"
+      "avail": "29、30号全天"
     },
     {
       "id": 41,
@@ -1443,12 +1504,12 @@ window.VENUE_DATA = {
       "photo": "暂无",
       "mgr": "张倩",
       "tel": "18086802019",
-      "s": "OOFOOOOOOOOOOOFO",
-      "win": "",
+      "s": "OOOOOOOOOOFFFFOO",
+      "win": "10月29—30日全天",
       "acts": {},
       "cap": 170,
       "actCount": 0,
-      "avail": "25号上午，31号上午"
+      "avail": "29、30号全天"
     },
     {
       "id": 42,
@@ -1462,12 +1523,12 @@ window.VENUE_DATA = {
       "photo": "暂无",
       "mgr": "张倩",
       "tel": "18086802019",
-      "s": "OOFFOOOOOOOOOOFF",
-      "win": "",
+      "s": "OOOOOOOOOOFFFFOO",
+      "win": "10月29—30日全天",
       "acts": {},
       "cap": 60,
       "actCount": 0,
-      "avail": "25号全天，31号全天"
+      "avail": "29、30号全天"
     },
     {
       "id": 43,
@@ -1481,12 +1542,12 @@ window.VENUE_DATA = {
       "photo": "暂无",
       "mgr": "张倩",
       "tel": "18086802019",
-      "s": "OOFOOOOOOOOOOOFF",
-      "win": "",
+      "s": "OOOOOOOOOOFFFFOO",
+      "win": "10月29—30日全天",
       "acts": {},
       "cap": 120,
       "actCount": 0,
-      "avail": "25号上午，31号全天"
+      "avail": "29、30号全天"
     },
     {
       "id": 44,
@@ -1500,12 +1561,12 @@ window.VENUE_DATA = {
       "photo": "暂无",
       "mgr": "张倩",
       "tel": "18086802019",
-      "s": "OOFOOOOOOOOOOOFO",
-      "win": "",
+      "s": "OOOOOOOOOOFFFFOO",
+      "win": "10月29—30日全天",
       "acts": {},
       "cap": 120,
       "actCount": 0,
-      "avail": "25号上午，31号上午"
+      "avail": "29、30号全天"
     },
     {
       "id": 45,
@@ -1519,12 +1580,12 @@ window.VENUE_DATA = {
       "photo": "暂无",
       "mgr": "张倩",
       "tel": "18086802019",
-      "s": "FFFOOOOOOOOOOOFF",
-      "win": "",
+      "s": "OOOOOOOOOOFFFFOO",
+      "win": "10月29—30日全天",
       "acts": {},
       "cap": 110,
       "actCount": 0,
-      "avail": "24号全天，25号上午，31号全天"
+      "avail": "29、30号全天"
     },
     {
       "id": 46,
@@ -1538,297 +1599,12 @@ window.VENUE_DATA = {
       "photo": "暂无",
       "mgr": "张倩",
       "tel": "18086802019",
-      "s": "OOFOOOOOOOOOOOOF",
-      "win": "",
+      "s": "OOOOOOOOOOFFFFOO",
+      "win": "10月29—30日全天",
       "acts": {},
       "cap": 120,
       "actCount": 0,
-      "avail": "25号上午，31号下午"
-    },
-    {
-      "id": 47,
-      "cat": "教室",
-      "campus": "温江校区",
-      "name": "逸夫南楼(D)-301",
-      "capRaw": "170",
-      "layout": "课桌式",
-      "dev": "LED屏",
-      "movable": "待补充",
-      "photo": "暂无",
-      "mgr": "张倩",
-      "tel": "18086802019",
-      "s": "OOOOOOOOOOOFOOOO",
-      "win": "",
-      "acts": {},
-      "cap": 170,
-      "actCount": 0,
-      "avail": "29号下午"
-    },
-    {
-      "id": 48,
-      "cat": "教室",
-      "campus": "温江校区",
-      "name": "逸夫南楼(D)-304",
-      "capRaw": "120",
-      "layout": "课桌式",
-      "dev": "单触屏",
-      "movable": "待补充",
-      "photo": "暂无",
-      "mgr": "张倩",
-      "tel": "18086802019",
-      "s": "OOOOOOOOOOOFOOFO",
-      "win": "",
-      "acts": {},
-      "cap": 120,
-      "actCount": 0,
-      "avail": "29号下午，31号上午"
-    },
-    {
-      "id": 49,
-      "cat": "教室",
-      "campus": "温江校区",
-      "name": "逸夫南楼(D)-305",
-      "capRaw": "110",
-      "layout": "课桌式",
-      "dev": "单触屏",
-      "movable": "待补充",
-      "photo": "暂无",
-      "mgr": "张倩",
-      "tel": "18086802019",
-      "s": "FFOOOOOOOOOFOOFO",
-      "win": "",
-      "acts": {},
-      "cap": 110,
-      "actCount": 0,
-      "avail": "24号全天，29号下午，31号上午"
-    },
-    {
-      "id": 50,
-      "cat": "教室",
-      "campus": "温江校区",
-      "name": "逸夫南楼(D)-307",
-      "capRaw": "240",
-      "layout": "课桌式",
-      "dev": "单投影",
-      "movable": "待补充",
-      "photo": "暂无",
-      "mgr": "张倩",
-      "tel": "18086802019",
-      "s": "OOOOFOOOOOOOOOOO",
-      "win": "",
-      "acts": {},
-      "cap": 240,
-      "actCount": 0,
-      "avail": "26号上午"
-    },
-    {
-      "id": 51,
-      "cat": "教室",
-      "campus": "温江校区",
-      "name": "逸夫南楼(D)-501",
-      "capRaw": "170",
-      "layout": "课桌式",
-      "dev": "LED屏",
-      "movable": "待补充",
-      "photo": "暂无",
-      "mgr": "张倩",
-      "tel": "18086802019",
-      "s": "OOOOOFFOOOOOOOOO",
-      "win": "",
-      "acts": {},
-      "cap": 170,
-      "actCount": 0,
-      "avail": "26号下午，27号上午"
-    },
-    {
-      "id": 52,
-      "cat": "教室",
-      "campus": "温江校区",
-      "name": "逸夫南楼(D)-502",
-      "capRaw": "60",
-      "layout": "课桌式",
-      "dev": "双联动触屏",
-      "movable": "待补充",
-      "photo": "暂无",
-      "mgr": "张倩",
-      "tel": "18086802019",
-      "s": "FFOOOOOOOOOOOOOO",
-      "win": "",
-      "acts": {},
-      "cap": 60,
-      "actCount": 0,
-      "avail": "24号全天"
-    },
-    {
-      "id": 53,
-      "cat": "教室",
-      "campus": "温江校区",
-      "name": "逸夫南楼(D)-504",
-      "capRaw": "120",
-      "layout": "课桌式",
-      "dev": "单触屏",
-      "movable": "待补充",
-      "photo": "暂无",
-      "mgr": "张倩",
-      "tel": "18086802019",
-      "s": "OOOOOFOOOOOOOOOO",
-      "win": "",
-      "acts": {},
-      "cap": 120,
-      "actCount": 0,
-      "avail": "26号下午"
-    },
-    {
-      "id": 54,
-      "cat": "教室",
-      "campus": "温江校区",
-      "name": "逸夫南楼(D)-505",
-      "capRaw": "110",
-      "layout": "课桌式",
-      "dev": "单触屏",
-      "movable": "待补充",
-      "photo": "暂无",
-      "mgr": "张倩",
-      "tel": "18086802019",
-      "s": "OOOOOFOOOOOOOOOO",
-      "win": "",
-      "acts": {},
-      "cap": 110,
-      "actCount": 0,
-      "avail": "26号下午"
-    },
-    {
-      "id": 55,
-      "cat": "教室",
-      "campus": "温江校区",
-      "name": "逸夫南楼(D)-506",
-      "capRaw": "120",
-      "layout": "课桌式",
-      "dev": "单触屏",
-      "movable": "待补充",
-      "photo": "暂无",
-      "mgr": "张倩",
-      "tel": "18086802019",
-      "s": "OOOOOFOOOOOFOOOO",
-      "win": "",
-      "acts": {},
-      "cap": 120,
-      "actCount": 0,
-      "avail": "26号下午，29号下午"
-    },
-    {
-      "id": 56,
-      "cat": "教室",
-      "campus": "温江校区",
-      "name": "逸夫南楼(D)-601",
-      "capRaw": "170",
-      "layout": "课桌式",
-      "dev": "LED屏",
-      "movable": "待补充",
-      "photo": "暂无",
-      "mgr": "张倩",
-      "tel": "18086802019",
-      "s": "OOOOOOOOOOOFOOOO",
-      "win": "",
-      "acts": {},
-      "cap": 170,
-      "actCount": 0,
-      "avail": "29号下午"
-    },
-    {
-      "id": 57,
-      "cat": "教室",
-      "campus": "温江校区",
-      "name": "逸夫南楼(D)-602",
-      "capRaw": "60",
-      "layout": "课桌式",
-      "dev": "双联动触屏",
-      "movable": "待补充",
-      "photo": "暂无",
-      "mgr": "张倩",
-      "tel": "18086802019",
-      "s": "FFOFOOOOOOOFOOOO",
-      "win": "",
-      "acts": {},
-      "cap": 60,
-      "actCount": 0,
-      "avail": "24号全天，25号下午，29号下午"
-    },
-    {
-      "id": 58,
-      "cat": "教室",
-      "campus": "温江校区",
-      "name": "逸夫南楼(D)-603",
-      "capRaw": "120",
-      "layout": "课桌式",
-      "dev": "单触屏",
-      "movable": "待补充",
-      "photo": "暂无",
-      "mgr": "张倩",
-      "tel": "18086802019",
-      "s": "OOOFOFOOOOOFOOOO",
-      "win": "",
-      "acts": {},
-      "cap": 120,
-      "actCount": 0,
-      "avail": "25号下午，26号下午，29号下午"
-    },
-    {
-      "id": 59,
-      "cat": "教室",
-      "campus": "温江校区",
-      "name": "逸夫南楼(D)-604",
-      "capRaw": "120",
-      "layout": "课桌式",
-      "dev": "单触屏",
-      "movable": "待补充",
-      "photo": "暂无",
-      "mgr": "张倩",
-      "tel": "18086802019",
-      "s": "FFOFOFOOOOOFOOOO",
-      "win": "",
-      "acts": {},
-      "cap": 120,
-      "actCount": 0,
-      "avail": "24号全天，25号下午，26号下午，29号下午"
-    },
-    {
-      "id": 60,
-      "cat": "教室",
-      "campus": "温江校区",
-      "name": "逸夫南楼(D)-605",
-      "capRaw": "110",
-      "layout": "课桌式",
-      "dev": "单触屏",
-      "movable": "待补充",
-      "photo": "暂无",
-      "mgr": "张倩",
-      "tel": "18086802019",
-      "s": "FFOFOOOOOOOFOOOO",
-      "win": "",
-      "acts": {},
-      "cap": 110,
-      "actCount": 0,
-      "avail": "24号全天，25号下午，29号下午"
-    },
-    {
-      "id": 61,
-      "cat": "教室",
-      "campus": "温江校区",
-      "name": "逸夫南楼(D)-606",
-      "capRaw": "120",
-      "layout": "课桌式",
-      "dev": "单触屏",
-      "movable": "待补充",
-      "photo": "暂无",
-      "mgr": "张倩",
-      "tel": "18086802019",
-      "s": "FFOFOOOOOOOFOOOO",
-      "win": "",
-      "acts": {},
-      "cap": 120,
-      "actCount": 0,
-      "avail": "24号全天，25号下午，29号下午"
+      "avail": "29、30号全天"
     }
   ]
 };
