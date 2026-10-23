@@ -1167,7 +1167,7 @@ window.VENUE_DATA = {
     },
     {
       "id": 27,
-      "cat": "cat": "单位会场",
+      "cat": "单位会场",
       "campus": "十二桥校区",
       "name": "附属医院传承负二楼会议室3",
       "capRaw": "40",
