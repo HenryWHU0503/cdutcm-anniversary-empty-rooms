@@ -1451,7 +1451,7 @@ window.VENUE_DATA = {
       "photo": "暂无",
       "mgr": "张倩",
       "tel": "18086802019",
-      "s": "OOOOOOOOOOFOFFOO",
+      "s": "OOOOOOOOOOFFOFOO",
       "win": "10月29—30日全天",
       "acts": {
         "12": {
