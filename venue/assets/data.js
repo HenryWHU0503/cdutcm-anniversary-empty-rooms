@@ -1310,12 +1310,20 @@ window.VENUE_DATA = {
       "photo": "暂无",
       "mgr": "张倩",
       "tel": "18086802019",
-      "s": "OOOOOOOOOOFFFFOO",
+      "s": "OOOOOOOOOOFFOFOO",
       "win": "10月29—30日全天",
-      "acts": {},
+      "acts": {
+        "12": {
+          "t": "",
+          "n": "场地已占用（未提供活动明细）",
+          "u": "",
+          "sp": "",
+          "lv": ""
+        }
+      },
       "cap": 170,
-      "actCount": 0,
-      "avail": "29、30号全天"
+      "actCount": 1,
+      "avail": "29号全天，30号下午"
     },
     {
       "id": 35,
@@ -1667,7 +1675,7 @@ window.VENUE_DATA = {
       "photo": "暂无",
       "mgr": "张倩",
       "tel": "18086802019",
-      "s": "OOOOOOOOOOFFOFOO",
+      "s": "OOOOOOOOOOFFOOOO",
       "win": "10月29—30日全天",
       "acts": {
         "12": {
@@ -1676,11 +1684,18 @@ window.VENUE_DATA = {
           "u": "",
           "sp": "",
           "lv": ""
+        },
+        "13": {
+          "t": "",
+          "n": "场地已占用（未提供活动明细）",
+          "u": "",
+          "sp": "",
+          "lv": ""
         }
       },
       "cap": 120,
-      "actCount": 1,
-      "avail": "29号全天，30号下午"
+      "actCount": 2,
+      "avail": "29号上午"
     }
   ]
 };
